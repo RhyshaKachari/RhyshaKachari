@@ -29,4 +29,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rhyshakachari&" alt="rhyshakachari" /></p>
 
-
+![snake gif](https://github.com/RhyshaKachari/RhyshaKachari/blob/output/github-contribution-grid-snake.gif)
