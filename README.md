@@ -29,3 +29,22 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rhyshakachari&" alt="rhyshakachari" /></p>
 
+###
+
+<br clear="both">
+
+<img align="center" src="https://raw.githubusercontent.com/RhyshaKachari/RhyshaKachari/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/RhyshaKachari/count.svg?"  />
+</div>
+
+###
+
+<div align="center" markdown=1>
+
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://github.com/RhyshaKachari)
+
+</div>
